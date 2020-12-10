@@ -8,7 +8,7 @@ import queryString from "query-string";
 
 const axiosClient = axios.create({
   // baseURL: process.env.REACT_APP_API_URL,
-  baseURL: "http://localhost:3000",
+  baseURL: "https://backend-coffeeshop.herokuapp.com/",
   headers: {
     "content-type": "application/json",
   },
