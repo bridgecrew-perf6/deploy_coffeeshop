@@ -1,7 +1,12 @@
 {
   "name": "@coreui/coreui-free-react-admin-template",
   "version": "3.0.0",
-  "description": "CoreUI React Open Source Bootstrap 4 Admin Template",
+  "engines":{
+    "node":"12.18.1",
+    "npm":"6.14.5"
+  },
+  "description": "Coffee Shop TC",
+
   "author": {
     "name": "CoreUI",
     "url": "https://coreui.io",
